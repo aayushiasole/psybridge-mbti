@@ -1,4 +1,5 @@
 PsyBridge MBTI Assessment
+
 A modern web application for MBTI personality assessment: users provide demographic data and complete a 60-question survey to instantly receive their MBTI type and a downloadable report.
 The app features a React/Vite frontend, FastAPI backend, and machine-learning MBTI prediction.
 
