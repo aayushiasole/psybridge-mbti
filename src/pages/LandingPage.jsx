@@ -183,7 +183,7 @@ export default function LandingPage() {
               fontFamily: HEADING_FONT
             }}
           >
-            Unlocking Potential through <strong>Personal Insight</strong>
+            Unlocking Potential through <strong>Personalised Insights</strong>
           </h1>
           <h4 className="mb-4 text-muted" style={{ fontWeight: 400, color: '#5a7896', fontFamily: BODY_FONT }}>
             Discover the scientific framework for understanding your personality preferences and innate strengths.
