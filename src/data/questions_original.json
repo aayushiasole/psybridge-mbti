@@ -1,0 +1,37 @@
+[
+  { "id": 1, "category": "IE", "question": "You enjoy being at the center of attention." },
+  { "id": 2, "category": "IE", "question": "You prefer spending time with a few close friends rather than a large group." },
+  { "id": 3, "category": "IE", "question": "You find it easy to start conversations with strangers." },
+  { "id": 4, "category": "IE", "question": "After social events, you feel energized rather than drained." },
+  { "id": 5, "category": "IE", "question": "You like to share your thoughts openly with others." },
+  { "id": 6, "category": "IE", "question": "You often seek out group activities instead of solo ones." },
+  { "id": 7, "category": "IE", "question": "You feel comfortable being the center of attention." },
+  { "id": 8, "category": "IE", "question": "You prefer working in teams rather than alone." },
+
+  { "id": 9, "category": "NS", "question": "You focus on the details rather than the big picture." },
+  { "id": 10, "category": "NS", "question": "You rely more on experience than imagination." },
+  { "id": 11, "category": "NS", "question": "You like clear and concrete facts over abstract theories." },
+  { "id": 12, "category": "NS", "question": "You prefer to stick to proven methods rather than experiment." },
+  { "id": 13, "category": "NS", "question": "You tend to be practical rather than inventive." },
+  { "id": 14, "category": "NS", "question": "You are more interested in real situations than hypothetical ones." },
+  { "id": 15, "category": "NS", "question": "You value realism over innovation." },
+  { "id": 16, "category": "NS", "question": "You trust facts more than intuition." },
+
+  { "id": 17, "category": "TF", "question": "You make decisions logically rather than emotionally." },
+  { "id": 18, "category": "TF", "question": "You find it easy to stay objective in difficult situations." },
+  { "id": 19, "category": "TF", "question": "You value fairness over compassion." },
+  { "id": 20, "category": "TF", "question": "You prefer truth over harmony in conversations." },
+  { "id": 21, "category": "TF", "question": "You approach problems with logic, not feelings." },
+  { "id": 22, "category": "TF", "question": "You focus on facts rather than emotions." },
+  { "id": 23, "category": "TF", "question": "You are more analytical than empathetic." },
+  { "id": 24, "category": "TF", "question": "You believe it’s better to be fair than kind." },
+
+  { "id": 25, "category": "JP", "question": "You prefer having a clear schedule instead of spontaneity." },
+  { "id": 26, "category": "JP", "question": "You like to plan things in advance." },
+  { "id": 27, "category": "JP", "question": "You feel uncomfortable when things are unplanned." },
+  { "id": 28, "category": "JP", "question": "You complete tasks before the deadline rather than at the last minute." },
+  { "id": 29, "category": "JP", "question": "You prefer structure over flexibility." },
+  { "id": 30, "category": "JP", "question": "You keep your workspace organized." },
+  { "id": 31, "category": "JP", "question": "You like to follow rules and systems." },
+  { "id": 32, "category": "JP", "question": "You prefer control over spontaneity." }
+]
